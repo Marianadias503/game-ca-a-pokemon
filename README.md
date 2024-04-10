@@ -1,1 +1,2 @@
-# Projeto base para o curso
+# Projeto desenvolvido durante uma aula com foco em javascript
+
